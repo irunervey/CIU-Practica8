@@ -10,3 +10,6 @@ Para esta práctica he realizado una aplicación en la que poder dibujar pudiend
 
 ## Implementación.
 Para cambiar de color simplemente seleccionas el color que quieres. Para ajustar el tamaño del lapiz pulsas los botones de la izquierda. Para implementar los botones he comprobado la posición del ratón de forma que si esta en uno de los botones haga la modificación correspondiente. 
+
+## Enlace para acceder al projecto
+Para ver el projecto pulsa [aquí](https://editor.p5js.org/irunervey/full/up3sSI-61)
